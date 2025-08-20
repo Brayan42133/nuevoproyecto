@@ -3,3 +3,4 @@ lunes
 nuevo martes
 nuevo miercoles
 jueves
+viernes
